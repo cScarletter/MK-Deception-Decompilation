@@ -1,0 +1,740 @@
+Überspringen mit {
+Überspringen mit +
+SPIELER 1
+SPIELER 2
+ GEWINNT!
+TIE GAME!
+ANFÄNGER
+EINFACH
+MITTEL
+HART
+MAX
+AUS
+ON
+AUS
+LOW
+MITTEL
+MAX
+SÄUREBAD
+KÄFERHÖHLE
+LIU KANGS GRAB
+SCHLACHTHAUS
+RED DRAGON
+WÜSTENKLIPPE
+BAUCH DES HADES
+HIMMELSTEMPEL
+HÖLLENSCHMIEDE
+DRACHENBERG
+STÜRZENDE KLIPPE
+HOF
+PORTAL
+DIE GRUBE
+JINJANG
+TODESBECKEN
+UNTERE MINEN
+FESTUNG
+KUATAN-PALAST
+DUNKLES GEFÄNGNIS
+KATAKOMBEN
+DRACHENPALAST
+LIVING FOREST
+NEXUS ARENA
+ZEIT: %02.2d:%02.2d:%02.2d
+ZEIT: %02.2d:%02.2d
+Himmelstempel
+Red Dragon
+Slaughterhouse Jive
+Red Dragon
+Untere Minen
+The Dragon King Has Left the Building
+Dragon Slayer
+Puzzled
+Snake Food
+Chess fight music: Courtyard
+Liu Kangs Grab
+Käferhöhle
+Dunkles Gefängnis
+Live at Kuatan
+Golden Desert
+Tiles of Death and Whimsy
+Kombo Krusher
+Character Select: Arcade
+Chess fight music: Dead Pool
+Chess fight music: Living Forest
+Chess fight music: Portal
+Kampflied 1
+Kampflied 4
+Kampflied 6
+Kampflied 7
+Kampflied 10
+Boss Fight
+Old Boss Fight
+Puzzle-Musik 1
+Puzzle Music #4
+Chess fight music: Courtyard
+Fight Tune #2
+Kampflied 3
+Kampflied 5
+Kampflied 8
+Kampflied 9
+Puzzle-Musik 2
+Puzzle-Musik 3
+Kampflied 2
+Chess fight music: Dead Pool
+Chess fight music: Living Forest
+Chess fight music: Portal
+Dan Forden
+Rich Carle
+Vince Pontarelli
+Rich Carle
+Rich Carle
+Vince Pontarelli
+Vince Pontarelli
+Dan Forden
+Dan Forden
+Dan Forden/Rich Carle
+Dan Forden
+Dan Forden
+Dan Forden
+Vince Pontarelli
+Rich Carle
+Dan Forden
+Rich Carle
+Rich Carle
+Dan Forden
+Dan Forden
+Dan Forden
+This was the first piece written for MK Deception.  It was an attempt to understate the carnage that I knew would be happening on the Sky Temple.
+This tune pays homage to the song I wrote for MK Deadly Alliance for Quan Chi's Lair.  It was one of the first tunes I ever wrote for a Mortal Kombat game and it meant a lot to me.  It's the synthetic side of evil - a beat you can kill to...
+What better instrument to be used in a slaughterhouse than an axe. So, I took my axe and cut through this tune and all that was left were the fleshy chord changes and bloody riffs of my labor. After hearing what was left, I carved a beat beneath the carnage and the Slaughterhouse Jive was born.
+This is one of my personal favorites. I really like the little melody in the beginning. I also like how this tune begins with a basic 'shuffle' or 'triplet' feel, slowly evolves into a straight-eighth feel, then changes back to a shuffle again. This is done by treating the triplets like sixteenth notes for the B-section. The female vocal marks each time the switch is complete. The last time her vocal is heard, it is actually backwards, but it's hard to tell.
+Sound familiar?  This tune was actually written as background music for the first fight sequence in the opening MKD movie - listen for it next time.  The giant Japanese Taiko drums are what really drive this tune.  As far as I know, this is the first foray into orchestral sounds for MK Fighting music.
+Realizing that it takes a lot of time and effort to arrive at the final boss battle fight and that he is a very large, macabre creature, I thought it would be best to start with a huge thunderous drum to set the pulse. Ominous choir voices, skull rattling percussion and vein tingling strings all add to the ardor of trying to defeat the eminently forcible Dragon King.  FIGHT!!!
+This was the first pass at a boss fight tune.  We didn't think it was the perfect fit for the particular arena and situation but it's such a great piece we had to include it here.
+This was really just an attempt to figure out what kind of music would be appropriate combining Mortal Kombat with a Tetris-like puzzle game.  They got better as I went along...
+This one centers around a pitched metallic instrument played through a circulating delay line establishing the dominant rhythm of the piece.  From there, it was a matter of creating and maintaining the right harmonic progression to heighten and prolong the tension you feel playing the game.  I was unsure whether it was OK to resolve it 'happily' at the end.  Again, I erred on the side of whimsy.
+It was an honor and a pleasure for me to help resurrect the very first MK tune Dan ever wrote - I tried to be gentle with her.
+I'm still bummed that Liu Kang was killed in the last game.  This is sort of a funeral dirge for him.  I used (or overused) a new toy on this one:  a filter box that did a nice job of shredding my Koto and Erhu sounds.
+This was first written for the teaser promo we produced last year.   I extracted some of that material and turned it into music for the Beetle Lair.
+This tune is an homage to the amazing music in Midway's 'The Suffering'.  Apparently that was performed on some crazy home-made metallic percussion instrument.  I had to settle for a home-brew selection of metallic samples.  I hope it's one-tenth as cool as The Suffering's music.
+I've never been to a palace, let alone a 'goth' one as it's been described to me. So I conjured up some memories of when I was very young and we visited some castles. I tried to imagine all of the 'things' that may have went on in those dark cold rooms so long ago. This is what inspired the dementia for the Kuatan Palace.
+Like so much of Mortal Kombat's music, this is another blend of organic and electronic instruments.  The primary drum ensemble is made up of authentic African drums like the Surdu, Udu, and Djembe while the bass and melody are synthetic.  The melody is this cool flute-like instrument that has a powerful filter on it.
+This continues the process of discovering the appropriate balance between whimsical light-hearted fun, and painful torture and death.  This one probably errs on the side of whimsy.  I had some fun with a new filter box on this one.  I like how it subtly destroys the percussion groove towards the end.
+This tune features a simple two-note bass line to which I add one note every two measures - kind of like a long string of puzzle blocks.  In the middle of the tune, once the full bass line is revealed, I subtract a note every two measures until the original two-note line is back.  The high flute-like part reminds me of Chinese calligraphy because, although it gets really quiet at times, the line never really stops playing until it is truly over.
+This was the first tune I wrote for MK Deception.  I was so psyched to be back writing evil music again I wanted to write something big and slow - let the evil juices flow down my chin.  Although I had a blast writing it, once I was done I wasn't exactly sure where it was going to fit in the game.   After Dan heard it, he immediately thought it would make a great character select tune for arcade mode - and to me, it feels really good there.
+Since we resurrected several backgrounds from MK1 and MK2 for use in the board game, we thought it would be fun and nostalgic to bring back the music written for them.  The one thing I remember when writing this was thinking about the chains hanging around the room.  There are sounds in the music which allude to them.
+This was a tip of the hat to Jethro Tull, to whom I listened all through high school.  For some reason, it ended up being in 13/8 time, although it doesn't seem to hit you over the head that it's in an odd meter.
+This is a song about fellowship and amity... The dew on the petals of a buttercup on a spring morning... Wading in a mountain stream... Wringing your friend's neck after he cheap shots you to death with low kicks on MK2...
+$hit
+$hitter
+@$$ hole
+@$$hole
+@$s
+@s$
+@ss
+8itch
+a$$
+a$$face
+a$s
+a$sface
+aclit
+adick
+AIDS
+Alabama porch monkey
+Alabama porch monkey
+anal intruder
+anal invader
+ANALICKER
+Anus
+as$
+as$
+ass bandit
+ass clown
+ass face
+ass fucker
+ass hole
+ass load
+ass much
+ass out
+ass packer
+ass reamer
+ass whacker
+ass wipe
+assbandit
+assclown
+Asscrack
+assed out
+assface
+assfucker
+asshole
+asslicker
+assload
+assmunch
+assout
+asspacker
+assreamer
+asswhacker
+asswipe
+baby batter
+babybatter
+ball breaker
+ball buster
+baller
+balling
+bat shit
+batshit
+bearded clam
+bearded taco
+beardedclam
+beardedtaco
+beaver
+beavershot
+beeatch
+beener
+biatch
+big baller
+bigballer
+bimbo
+bitch
+bite me
+biteme
+blewinski
+blood fart
+bloodfart
+blow job
+blow me
+blow my pole
+blowjob
+blowme
+blue ball
+blue balls
+blueball
+blueballs
+boner
+bull dike
+bull shit
+bulldike
+bullshit
+bung hole
+bunghole
+butt bandit
+butt banger
+butt buddy
+butt crust
+butt nugger
+butt pirate
+butt plug
+buttbandit
+buttbanger
+Buttcrack
+buttfuck
+buttfucker
+Butthump
+buttnugger
+buttpirate
+buttplug
+Buttporn
+c0ck
+Camel Jockey
+camel toe
+cameltoe
+carpet eater
+carpeteater
+cherry popper
+cherrypopper
+chinc
+chink
+choad
+chode
+choke my chicken
+choking the chicken
+cocaine
+cock jockey
+cock knocker
+cock lord
+cock ring
+cock smoker
+cock sucker
+cock tease
+cockass
+cockblocker
+cockjockey
+cocklord
+cocknocker
+cockring
+cocksmoker
+cocksucker
+cocktease
+Condom
+coochie
+coon
+cootch
+cooze
+corn hole
+cornhole
+crack ho
+crack spackler
+CRACKBITCH
+cracker
+Crackspacker
+crackspackler
+crakker
+crap
+crap face
+crap head
+crapface
+craphead
+Crapper
+cum
+cum belch
+cum belcher
+cum bubble
+cum dumpster
+cum guzzle
+cum guzzler
+cum lapper
+cum lapper
+cum licker
+cum stain
+cum sucker
+cumbelch
+Cumbelch
+cumbelcher
+Cumbelcher
+cumbeltch
+cumbeltcher
+cumbubble
+cumdumpster
+cumguzzle
+cumguzzler
+cumlapper
+cumlapper
+cumlicker
+cumm
+cumm bubble
+cumm dumpster
+cumm guzzler
+cumm stain
+cumm sucker
+cummbubble
+cummdumpster
+cummguzzler
+cummstain
+cummsucker
+cumstain
+cumsucker
+cumsuker
+cumwad
+cunt
+cunt hair
+cunt whisker
+cunt whisker
+cunthair
+cuntwhisker
+cuntwisker
+cuze
+D I C K
+daisy chain
+daisy gang
+dangelberry
+dangleberry
+deez nuts
+devil
+dick breath
+dick fiend
+dick head
+dick nose
+dick wad
+dick weed
+dickbreath
+dickface
+dickfiend
+dickhead
+dicknose
+dickwad
+dickweed
+dik breath
+dik fiend
+dik head
+dikbreath
+dike
+dikfiend
+dikhead
+dildo
+dingelberry
+dingleberry
+dipstick
+douche
+douche bag
+drain the lizard
+drugs
+dune coon
+dunecoon
+earning red wings
+eat me
+eat my shorts
+eatme
+Ecstacy
+eggplant
+Ejaculate
+fagg
+faggot
+Faghump
+Fagmunch
+felch
+felcher
+feltch
+feltcher
+finger bang
+finger banged
+finger banger
+finger fuck
+fingerbang
+fingerbanged
+fingerbanger
+fingerfuck
+flamer
+flip
+flogging the bishop
+fore skin
+foreskin
+fuck
+fuck face
+fucked
+fucker
+fuckers
+fuckface
+fucking
+fucknut
+fucknuts
+fucks
+fuckshit
+fuckstick
+fudge packer
+fudgepacker
+fuk
+fuk
+fuk you
+Fuker
+fukkhead
+fur burger
+furbuger
+furry burger
+fury burger
+fvck
+fvck you
+fvcker
+fvckface
+fvcking
+fvcknut
+fvcknuts
+gang bang
+gangbang
+genocide
+gniga
+gook
+hairy hatchet wound
+hairy taco
+hairyhatchetwound
+hairytaco
+half breed
+halfbreed
+hardon
+hell
+Hermaphrodite
+Herpes
+ho
+hoes
+hommo
+homo
+honkey
+honky
+hoochie mama
+hooker
+horse shit
+horseshit
+hot beef injection
+INCEST
+jacking off
+jap
+jerking off
+jiz
+jiz muffin
+jiz sandwich
+jizer
+jizm
+jizmuffin
+jizz
+jizz muffin
+jizz sandwich
+jizzer
+jizzm
+jizzmuffin
+jungle bunny
+junglebunny
+kike
+Kill
+koochie
+koochy
+kootch
+kootchie
+kootchy
+kum
+kumm
+lesbo
+lettuce picker
+lettucepicker
+lezbo
+lick my nuts
+lickcock
+licknipple
+limpdick
+LIMPDICK
+love canal
+LSD
+man whore
+mangina
+manwhore
+Marijuana
+Masturbate
+mick
+monkeydick
+Monkeyhumper
+mooli
+mother fucker
+motherfucker
+mud people
+mud person
+mudpeople
+mudperson
+muff
+muff diver
+muffdiver
+muli
+murder
+nazi
+niger
+nigga
+niggah
+nigger
+nip
+nip
+nipple
+nutted
+nutter
+nutting
+one way pipe cleaner
+panocha
+PCP
+pecker
+pecker head
+pecker nose
+peckerhead
+peckernose
+Pedophile
+penis breath
+penisbreath
+phelch
+phelcher
+pheltch
+pheltcher
+phlip
+pillow biter
+pillowbiter
+PIMP
+pinis wrinkle
+piniswrinkle
+pipe hitter
+pipehitter
+piss
+pissdrinker
+pisslicker
+pito
+pole sitter
+pole smoker
+polesitter
+polesmoker
+polish the bishop
+polishing the torpedo
+polock
+poon tang
+poontang
+poop chute
+poop stain
+poopchute
+poopstain
+popped cherry
+poppedcherry
+prick
+Psilocybin
+pu55y
+pussie
+pussy
+pussy juice
+pussy juiced
+pussy juicer
+pussy juicing
+pussy pounder
+pussy pounding
+pussy whipped
+pussy whipper
+pussy wiped
+pussyjuice
+pussyjuicer
+pussywhipped
+pussywhipper
+pussywiped
+puta
+pv55ie
+pv55y
+rag head
+raghead
+Rectal
+Rectum
+redneck
+retard
+retarded
+rim job
+rimjob
+rug munch
+rug munched
+rug muncher
+rugmuncher
+rump ranger
+rumpranger
+Rumpshaker
+sachamo
+sambo
+sand niggah
+sand nigger
+sandniggah
+sandnigger
+Satanic
+schlong
+scrubbing the carrot
+shit
+shit eater
+shit face
+shit faced
+shit head
+shit kicker
+shit pusher
+shit shover
+shiteater
+shitface
+shitfaced
+shitfucker
+shithead
+shithead
+shitkicker
+shitpusher
+shitshover
+skank
+Skin flute
+skullfuck
+skullfucked
+skullfucker
+skullfucks
+slap the salami
+slaping the sausage
+slit licker
+slitlicker
+slope
+slut
+slut bag
+slutbag
+smegma
+snog
+sodomise
+sodomised
+sodomiser
+sodomite
+sodomize
+sodomized
+sodomizer
+sodomy
+spank the monkey
+sphincter boy
+sphincter face
+sphincterboy
+sphincterface
+spic
+spick
+spik
+spunk monkey
+Suicide
+taint
+tar baby
+tarbaby
+tard
+Testes
+Testicles
+Testicular
+tip polisher
+tit
+tit fuck
+tit fucker
+titfuck
+titfucker
+tits
+titty
+titty twisted
+titty twister
+titty twisters
+titty twisting
+tity
+towel head
+towelhead
+trailer trash
+trailertrash
+Transsexual
+Transvestite
+twat
+uncle tom
+uplay wid dix
+vag
+VAGINA LICKER
+welfare rat
+wet back
+wet back
+wetback
+whacking off
+white trash
+whore
+wop
+wrapping the weasel
+yclit
+Winner
+X Combo
+Bomb Bonus!
+Combo!
+Excellent!
+Fight!
+Finish Her!
+Finish Him!
+Flawless!
+Kaution
+Loser
+Next
+Puzzle Kombat
+Round 1
+Round 2
+Round 3
+Score
+Super
+Arrange!
+Breaker Buster!
+Double Bomb!
+Drill!
+Edger!
+Freeze!
+Invisible!
+Jumble!
+Kollapse!
+Levitate!
+Stack!
+Storm!
+Beware of falling objects
+1 ton
+Caution falling objects
+FINAL MATCH

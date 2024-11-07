@@ -1,0 +1,130 @@
+===========
+Header Info
+===========
+Script strings data size: 	2908
+String data size        : 	3848
+All functions size      : 	75972
+All variables size      : 	9244
+===========
+Function Info
+===========
+Functions               : 	41
+Functions Start         : 	0x46B8
+Function 0000 - startup_ashrah 	 Size: 492 Unk: 0 Offset: 0
+Function 0001 - reload_ashrah 	 Size: 100 Unk: 0 Offset: 496
+Function 0002 - start_ashrah_cloth 	 Size: 1328 Unk: 0 Offset: 600
+Function 0003 - startup_ashrah_alt 	 Size: 492 Unk: 0 Offset: 1932
+Function 0004 - reload_ashrah_alt 	 Size: 100 Unk: 0 Offset: 2428
+Function 0005 - start_ashrah_alt_cloth 	 Size: 532 Unk: 0 Offset: 2532
+Function 0006 - ashrah_rx_xfer_cleanup 	 Size: 20 Unk: 0 Offset: 3068
+Function 0007 - ashrah_kill_all_pfx 	 Size: 1528 Unk: 0 Offset: 3092
+Function 0008 - kill_vertical_spin_pfx 	 Size: 2312 Unk: 0 Offset: 4624
+Function 0009 - kill_horizontal_spin_pfx 	 Size: 860 Unk: 0 Offset: 6940
+Function 0010 - ashrah_get_new_emitter_obj 	 Size: 172 Unk: 0 Offset: 7804
+Function 0011 - hit_ashrah_projectile_up_effects 	 Size: 1172 Unk: 0 Offset: 7980
+Function 0012 - hit_gnd_ashrah_projectile_up_effects 	 Size: 1584 Unk: 0 Offset: 9156
+Function 0013 - end_ashrah_projectile_up_effects 	 Size: 460 Unk: 0 Offset: 10744
+Function 0014 - start_ashrah_projectile_up 	 Size: 1316 Unk: 0 Offset: 11208
+Function 0015 - ashrah_projectile_upward 	 Size: 108 Unk: 0 Offset: 12528
+Function 0016 - hit_ashrah_projectile_out_effects 	 Size: 980 Unk: 0 Offset: 12640
+Function 0017 - end_ashrah_projectile_out_effects 	 Size: 460 Unk: 0 Offset: 13624
+Function 0018 - start_ashrah_projectile_out 	 Size: 2604 Unk: 0 Offset: 14088
+Function 0019 - ashrah_projectile_outward 	 Size: 124 Unk: 0 Offset: 16696
+Function 0020 - vert_spin_collision 	 Size: 572 Unk: 0 Offset: 16824
+Function 0021 - ashrah_vertical_spinning_1 	 Size: 192 Unk: 0 Offset: 17400
+Function 0022 - ashrah_vertical_spinning_hit_exit 	 Size: 96 Unk: 0 Offset: 17596
+Function 0023 - start_spin_glow 	 Size: 2252 Unk: 0 Offset: 17696
+Function 0024 - start_spin_orbits 	 Size: 4524 Unk: 0 Offset: 19952
+Function 0025 - ashrah_vertical_spin 	 Size: 248 Unk: 0 Offset: 24480
+Function 0026 - horiz_blocked 	 Size: 1172 Unk: 0 Offset: 24732
+Function 0027 - ashrah_horizontal_spin 	 Size: 1092 Unk: 0 Offset: 25908
+Function 0028 - ashrah_muzzle_flash 	 Size: 1600 Unk: 0 Offset: 27004
+Function 0029 - ashrah_muzzle_flash_up 	 Size: 640 Unk: 0 Offset: 28608
+Function 0030 - ashrah_create_muzzle 	 Size: 1328 Unk: 0 Offset: 29252
+Function 0031 - ashrah_muzzle_controller 	 Size: 2448 Unk: 0 Offset: 30584
+Function 0032 - ashrah_front_12_getup 	 Size: 224 Unk: 0 Offset: 33036
+Function 0033 - ashrah_back_6_getup 	 Size: 404 Unk: 0 Offset: 33264
+Function 0034 - ashrah_fatality 	 Size: 23768 Unk: 0 Offset: 33672
+Function 0035 - ashrah2_fatality 	 Size: 11340 Unk: 0 Offset: 57444
+Function 0036 - ashrah_harikari 	 Size: 5092 Unk: 0 Offset: 68788
+Function 0037 - ashrah_throw 	 Size: 1140 Unk: 71 Offset: 73884
+Function 0038 - ashrah_throw_miss_exit 	 Size: 56 Unk: 0 Offset: 75028
+Function 0039 - r_throw_on_back_from_kick 	 Size: 252 Unk: 0 Offset: 75088
+Function 0040 - ashrah_victory 	 Size: 624 Unk: 0 Offset: 75344
+===========
+Variable Info
+===========
+Variables               : 	72
+Variables Start         : 	0x229C
+Variable 0000 - ashrah_movelist 	 Size: 1824 Elements: 76 Offset: 4
+Variable 0001 - g_game_info 	 Size: 0 Elements: 0 Offset: 1832
+Variable 0002 - ashrah_distance 	 Size: 256 Elements: 4 Offset: 1836
+Variable 0003 - ashrah_throw_attack 	 Size: 384 Elements: 6 Offset: 2096
+Variable 0004 - ashrah_anti_air 	 Size: 192 Elements: 3 Offset: 2484
+Variable 0005 - ashrah_bone_list 	 Size: 240 Elements: 60 Offset: 2680
+Variable 0006 - ashrah_alt_bone_list 	 Size: 240 Elements: 60 Offset: 2924
+Variable 0007 - ashrah_obj_to_shadow_bone_map 	 Size: 192 Elements: 24 Offset: 3168
+Variable 0008 - ashrah_shadow_bone_list 	 Size: 8 Elements: 1 Offset: 3364
+Variable 0009 - ashrah_ground_collision_map 	 Size: 160 Elements: 8 Offset: 3376
+Variable 0010 - ashrah_limb_piece_pivots 	 Size: 180 Elements: 15 Offset: 3540
+Variable 0011 - ashrah_limb_assembly_pivots 	 Size: 180 Elements: 15 Offset: 3724
+Variable 0012 - ashrah_styles 	 Size: 12 Elements: 3 Offset: 3908
+Variable 0013 - ashrah_particles 	 Size: 16 Elements: 4 Offset: 3924
+Variable 0014 - ashrah_fat_data_tbl 	 Size: 72 Elements: 3 Offset: 3944
+Variable 0015 - ashrah_player_data 	 Size: 324 Elements: 1 Offset: 4020
+Variable 0016 - ashrah_cloth_data 	 Size: 1360 Elements: 34 Offset: 4348
+Variable 0017 - ashrah_alt_cloth_data 	 Size: 1320 Elements: 33 Offset: 5712
+Variable 0018 - ashrah_globals 	 Size: 204 Elements: 1 Offset: 7036
+Variable 0019 - ashrah_spin_fx_handles 	 Size: 60 Elements: 15 Offset: 7244
+Variable 0020 - hit_ashrah_projectile_up_effects_last_pos 	 Size: 12 Elements: 1 Offset: 7308
+Variable 0021 - hit_gnd_ashrah_projectile_up_effects_last_pos 	 Size: 12 Elements: 1 Offset: 7324
+Variable 0022 - end_ashrah_projectile_up_effects_last_pos 	 Size: 12 Elements: 1 Offset: 7340
+Variable 0023 - ashrah_point_light_def 	 Size: 44 Elements: 1 Offset: 7356
+Variable 0024 - start_ashrah_projectile_up_offset 	 Size: 12 Elements: 1 Offset: 7404
+Variable 0025 - start_ashrah_projectile_up_vel 	 Size: 12 Elements: 1 Offset: 7420
+Variable 0026 - start_ashrah_projectile_up_tgt 	 Size: 12 Elements: 1 Offset: 7436
+Variable 0027 - hit_ashrah_projectile_out_effects_last_pos 	 Size: 12 Elements: 1 Offset: 7452
+Variable 0028 - start_ashrah_projectile_out_offset 	 Size: 12 Elements: 1 Offset: 7468
+Variable 0029 - start_ashrah_projectile_out_damp 	 Size: 12 Elements: 1 Offset: 7484
+Variable 0030 - start_ashrah_projectile_out_proj_vel 	 Size: 12 Elements: 1 Offset: 7500
+Variable 0031 - start_ashrah_projectile_out_last_pos 	 Size: 12 Elements: 1 Offset: 7516
+Variable 0032 - ash_bind_pfx_vert_tbl1 	 Size: 112 Elements: 7 Offset: 7532
+Variable 0033 - ash_bind_pfx_vert_tbl2 	 Size: 112 Elements: 7 Offset: 7648
+Variable 0034 - ash_bind_pfx_vert_tbl3 	 Size: 112 Elements: 7 Offset: 7764
+Variable 0035 - ash_spin_spit_vert_tbl1 	 Size: 48 Elements: 3 Offset: 7880
+Variable 0036 - ash_spin_spit_vert_tbl2 	 Size: 48 Elements: 3 Offset: 7932
+Variable 0037 - ash_spin_spit_vert_tbl3 	 Size: 48 Elements: 3 Offset: 7984
+Variable 0038 - start_spin_orbits_ang_vel1 	 Size: 12 Elements: 1 Offset: 8036
+Variable 0039 - start_spin_orbits_ang_vel2 	 Size: 12 Elements: 1 Offset: 8052
+Variable 0040 - start_spin_orbits_ang_vel3 	 Size: 12 Elements: 1 Offset: 8068
+Variable 0041 - horiz_blocked_pos_vel 	 Size: 12 Elements: 1 Offset: 8084
+Variable 0042 - ash_bind_pfx_horz_tbl 	 Size: 160 Elements: 10 Offset: 8100
+Variable 0043 - muzzle_flash 	 Size: 4 Elements: 1 Offset: 8264
+Variable 0044 - ashrah_muzzle_flash_pos1 	 Size: 12 Elements: 1 Offset: 8272
+Variable 0045 - ashrah_muzzle_flash_pos2 	 Size: 12 Elements: 1 Offset: 8288
+Variable 0046 - ashrah_muzzle_flash_final_pos 	 Size: 12 Elements: 1 Offset: 8304
+Variable 0047 - ashrah_muzzle_flash_up_final_pos 	 Size: 12 Elements: 1 Offset: 8320
+Variable 0048 - ashrah_muzzle_flash_up_plyr_ang 	 Size: 12 Elements: 1 Offset: 8336
+Variable 0049 - ashrah_create_muzzle_plyr_ang 	 Size: 12 Elements: 1 Offset: 8352
+Variable 0050 - ashrah_create_muzzle_scale 	 Size: 12 Elements: 1 Offset: 8368
+Variable 0051 - ashrah_muzzle_controller_scale 	 Size: 12 Elements: 1 Offset: 8384
+Variable 0052 - ft_ash1_gore2_tbl 	 Size: 176 Elements: 11 Offset: 8400
+Variable 0053 - ashrah_fatality_ang 	 Size: 12 Elements: 1 Offset: 8580
+Variable 0054 - ashrah_fatality_scale 	 Size: 12 Elements: 1 Offset: 8596
+Variable 0055 - ashrah_fatality_pos 	 Size: 12 Elements: 1 Offset: 8612
+Variable 0056 - ashrah_fatality_zero_offset 	 Size: 12 Elements: 1 Offset: 8628
+Variable 0057 - ashrah_fatality_direction 	 Size: 12 Elements: 1 Offset: 8644
+Variable 0058 - ft_ash2_falling_limbs 	 Size: 108 Elements: 9 Offset: 8660
+Variable 0059 - ft_ash2_falling_limbs_2 	 Size: 96 Elements: 8 Offset: 8772
+Variable 0060 - ashrah2_fatality_bm 	 Size: 16 Elements: 4 Offset: 8872
+Variable 0061 - ashrah2_fatality_pfx_handle 	 Size: 16 Elements: 4 Offset: 8892
+Variable 0062 - ashrah2_fatality_dummy_obj 	 Size: 16 Elements: 4 Offset: 8912
+Variable 0063 - ashrah2_fatality_ang 	 Size: 12 Elements: 1 Offset: 8932
+Variable 0064 - ashrah2_fatality_pos 	 Size: 12 Elements: 1 Offset: 8948
+Variable 0065 - hk_ash_body_parts 	 Size: 128 Elements: 8 Offset: 8964
+Variable 0066 - ashrah_harikari_special_case 	 Size: 8 Elements: 2 Offset: 9096
+Variable 0067 - ashrah_harikari_pfx_handle 	 Size: 8 Elements: 2 Offset: 9108
+Variable 0068 - ashrah_harikari_spin 	 Size: 12 Elements: 1 Offset: 9120
+Variable 0069 - ashrah_harikari_speed 	 Size: 12 Elements: 1 Offset: 9136
+Variable 0070 - ashrah_throw_attributes 	 Size: 64 Elements: 1 Offset: 9152
+Variable 0071 - ashrah_victory_cam_setup 	 Size: 24 Elements: 1 Offset: 9220

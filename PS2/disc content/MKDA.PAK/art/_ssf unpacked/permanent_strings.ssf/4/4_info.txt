@@ -1,0 +1,18 @@
+===========
+Header Info
+===========
+Script strings data size: 	12
+String data size        : 	14748
+All functions size      : 	0
+All variables size      : 	2960
+===========
+Function Info
+===========
+Functions               : 	0
+Functions Start         : 	0x4570
+===========
+Variable Info
+===========
+Variables               : 	1
+Variables Start         : 	0x39E0
+Variable 0000 - string_list 	 Size: 2956 Elements: 740 Offset: 4
