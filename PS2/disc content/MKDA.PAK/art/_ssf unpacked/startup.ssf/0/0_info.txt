@@ -1,0 +1,19 @@
+===========
+Header Info
+===========
+Script strings data size: 	36
+String data size        : 	0
+All functions size      : 	4
+All variables size      : 	72
+===========
+Function Info
+===========
+Functions               : 	1
+Functions Start         : 	0xC0
+Function 0000 - startup 	 Size: 0 Unk: 0 Offset: 0
+===========
+Variable Info
+===========
+Variables               : 	1
+Variables Start         : 	0x78
+Variable 0000 - global_game_startup_states 	 Size: 68 Elements: 1 Offset: 4
