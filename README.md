@@ -17,6 +17,7 @@ The original .dff models are extracted to their original location on the disc. H
 ![SSFExplorer](https://github.com/ermaccer/SSFExplorer)
 
 ![mkoasm](https://github.com/ermaccer/mkoasm)
+![PSound](https://www.romhacking.net/utilities/679/)
 
 
 
