@@ -1,0 +1,7 @@
+0 - Character headshots and full body art that appear in the character select screen. Also the clouds.
+
+1 - Seems the same as 0. Not fully extracted yet.
+
+2 - Puzzle fighter character select and power ups
+
+2-26 - Appear to be the character's alternate costume body shot (the one that appears at the top of the "grid". 3 is Ashrah, 4 is Baraka, etc...
