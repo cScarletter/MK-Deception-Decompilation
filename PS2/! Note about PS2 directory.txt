@@ -1,0 +1,3 @@
+disc content (original organization) = The original file and folder structure as exported by SSFExplorer. Kinda hard to find things since it's all numbers that aren't otherwise labelled.
+
+reorganized = Reorganizes all the files and folders into more easily readable and accessible folders.

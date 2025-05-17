@@ -1,0 +1,100 @@
+===========
+Header Info
+===========
+Script strings data size: 	2360
+String data size        : 	840
+All functions size      : 	4500
+All variables size      : 	1184
+===========
+Function Info
+===========
+Functions               : 	37
+Functions Start         : 	0x161C
+Function 0000 - blade_flash_emitter_code 	 Size: 156 Unk: 0 Offset: 0
+Function 0001 - blade_flash_behavior_0 	 Size: 88 Unk: 0 Offset: 160
+Function 0002 - blade_flash_behavior_1 	 Size: 84 Unk: 0 Offset: 252
+Function 0003 - blade_flash_behavior_2 	 Size: 108 Unk: 0 Offset: 340
+Function 0004 - blade_flash_sparks_emitter_code 	 Size: 152 Unk: 0 Offset: 452
+Function 0005 - blade_flash_sparks_behavior_0 	 Size: 80 Unk: 0 Offset: 608
+Function 0006 - blade_flash_bouncy_sparks_emitter_code 	 Size: 168 Unk: 0 Offset: 692
+Function 0007 - blade_flash_bouncy_sparks_behavior_0 	 Size: 132 Unk: 0 Offset: 864
+Function 0008 - blade_flash_bouncy_sparks_behavior_1 	 Size: 104 Unk: 0 Offset: 1000
+Function 0009 - hit_flash_emitter_code 	 Size: 156 Unk: 0 Offset: 1108
+Function 0010 - hit_flash_behavior_0 	 Size: 84 Unk: 0 Offset: 1268
+Function 0011 - hit_flash_behavior_1 	 Size: 80 Unk: 0 Offset: 1356
+Function 0012 - hit_flash_behavior_2 	 Size: 104 Unk: 0 Offset: 1440
+Function 0013 - hit_flash_breaker_emitter_code 	 Size: 156 Unk: 0 Offset: 1548
+Function 0014 - hit_flash_breaker_behavior_0 	 Size: 84 Unk: 0 Offset: 1708
+Function 0015 - hit_flash_breaker_behavior_1 	 Size: 80 Unk: 0 Offset: 1796
+Function 0016 - hit_flash_breaker_behavior_2 	 Size: 104 Unk: 0 Offset: 1880
+Function 0017 - generic_smoke_react_emitter_code 	 Size: 80 Unk: 0 Offset: 1988
+Function 0018 - generic_smoke_react_lt_emitter_code 	 Size: 80 Unk: 0 Offset: 2072
+Function 0019 - generic_smoke_react_rt_emitter_code 	 Size: 80 Unk: 0 Offset: 2156
+Function 0020 - generic_smoke_react_head_emitter_code 	 Size: 68 Unk: 0 Offset: 2240
+Function 0021 - generic_smoke_react_torso_emitter_code 	 Size: 80 Unk: 0 Offset: 2312
+Function 0022 - generic_smoke_react_shin_emitter_code 	 Size: 80 Unk: 0 Offset: 2396
+Function 0023 - generic_smoke_react_behavior_0 	 Size: 52 Unk: 0 Offset: 2480
+Function 0024 - slide_smoke_react_emitter_code 	 Size: 188 Unk: 0 Offset: 2536
+Function 0025 - slide_smoke_react_behavior_0 	 Size: 124 Unk: 0 Offset: 2728
+Function 0026 - blade_flash_fx 	 Size: 112 Unk: 0 Offset: 2856
+Function 0027 - blade_sparks_fx 	 Size: 112 Unk: 0 Offset: 2972
+Function 0028 - blade_bouncy_sparks_fx 	 Size: 112 Unk: 0 Offset: 3088
+Function 0029 - hit_fx 	 Size: 112 Unk: 0 Offset: 3204
+Function 0030 - breaker_hit_fx 	 Size: 112 Unk: 0 Offset: 3320
+Function 0031 - generic_smoke_react_fx 	 Size: 124 Unk: 0 Offset: 3436
+Function 0032 - generic_smoke_react_shin_fx 	 Size: 124 Unk: 0 Offset: 3564
+Function 0033 - generic_smoke_react_lt_fx 	 Size: 124 Unk: 0 Offset: 3692
+Function 0034 - generic_smoke_react_rt_fx 	 Size: 124 Unk: 0 Offset: 3820
+Function 0035 - generic_smoke_react_head_fx 	 Size: 240 Unk: 0 Offset: 3948
+Function 0036 - slide_smoke_react_fx 	 Size: 304 Unk: 0 Offset: 4192
+===========
+Variable Info
+===========
+Variables               : 	46
+Variables Start         : 	0x117C
+Variable 0000 - blade_flash_emitter 	 Size: 16 Elements: 1 Offset: 4
+Variable 0001 - blade_flash_behaviors 	 Size: 12 Elements: 3 Offset: 24
+Variable 0002 - blade_flash_texture 	 Size: 16 Elements: 1 Offset: 40
+Variable 0003 - pfx_blade_flash_spawnsize 	 Size: 4 Elements: 1 Offset: 60
+Variable 0004 - blade_flash_effect 	 Size: 40 Elements: 1 Offset: 68
+Variable 0005 - blade_flash_sparks_emitter 	 Size: 16 Elements: 1 Offset: 112
+Variable 0006 - blade_flash_sparks_behaviors 	 Size: 4 Elements: 1 Offset: 132
+Variable 0007 - blade_flash_sparks_texture 	 Size: 16 Elements: 1 Offset: 140
+Variable 0008 - pfx_blade_flash_sparks_spawnsize 	 Size: 4 Elements: 1 Offset: 160
+Variable 0009 - blade_sparks_effect 	 Size: 40 Elements: 1 Offset: 168
+Variable 0010 - blade_flash_bouncy_sparks_emitter 	 Size: 16 Elements: 1 Offset: 212
+Variable 0011 - blade_flash_bouncy_sparks_behaviors 	 Size: 8 Elements: 2 Offset: 232
+Variable 0012 - blade_flash_bouncy_sparks_texture 	 Size: 16 Elements: 1 Offset: 244
+Variable 0013 - pfx_blade_flash_bouncy_sparks_spawnsize 	 Size: 4 Elements: 1 Offset: 264
+Variable 0014 - blade_bouncy_sparks_effect 	 Size: 40 Elements: 1 Offset: 272
+Variable 0015 - hit_flash_emitter 	 Size: 16 Elements: 1 Offset: 316
+Variable 0016 - hit_flash_behaviors 	 Size: 12 Elements: 3 Offset: 336
+Variable 0017 - hit_flash_texture 	 Size: 16 Elements: 1 Offset: 352
+Variable 0018 - pfx_hit_flash_spawnsize 	 Size: 4 Elements: 1 Offset: 372
+Variable 0019 - hit_flash_effect 	 Size: 40 Elements: 1 Offset: 380
+Variable 0020 - hit_flash_yw_texture 	 Size: 16 Elements: 1 Offset: 424
+Variable 0021 - hit_flash_yw_effect 	 Size: 40 Elements: 1 Offset: 444
+Variable 0022 - hit_flash_breaker_emitter 	 Size: 16 Elements: 1 Offset: 488
+Variable 0023 - hit_flash_breaker_behaviors 	 Size: 12 Elements: 3 Offset: 508
+Variable 0024 - pfx_hit_flash_breaker_spawnsize 	 Size: 4 Elements: 1 Offset: 524
+Variable 0025 - hit_flash_breaker_texture 	 Size: 16 Elements: 1 Offset: 532
+Variable 0026 - hit_flash_breaker_effect 	 Size: 40 Elements: 1 Offset: 552
+Variable 0027 - generic_smoke_react_emitter 	 Size: 16 Elements: 1 Offset: 596
+Variable 0028 - generic_smoke_react_lt_emitter 	 Size: 16 Elements: 1 Offset: 616
+Variable 0029 - generic_smoke_react_rt_emitter 	 Size: 16 Elements: 1 Offset: 636
+Variable 0030 - generic_smoke_react_head_emitter 	 Size: 16 Elements: 1 Offset: 656
+Variable 0031 - generic_smoke_react_torso_emitter 	 Size: 16 Elements: 1 Offset: 676
+Variable 0032 - generic_smoke_react_shin_emitter 	 Size: 16 Elements: 1 Offset: 696
+Variable 0033 - generic_smoke_react_behaviors 	 Size: 4 Elements: 1 Offset: 716
+Variable 0034 - generic_smoke_react_texture 	 Size: 16 Elements: 1 Offset: 724
+Variable 0035 - generic_smoke_react_info 	 Size: 40 Elements: 1 Offset: 744
+Variable 0036 - generic_smoke_react_lt_info 	 Size: 40 Elements: 1 Offset: 788
+Variable 0037 - generic_smoke_react_rt_info 	 Size: 40 Elements: 1 Offset: 832
+Variable 0038 - generic_smoke_react_head_info 	 Size: 40 Elements: 1 Offset: 876
+Variable 0039 - generic_smoke_react_torso_info 	 Size: 40 Elements: 1 Offset: 920
+Variable 0040 - generic_smoke_react_shin_info 	 Size: 40 Elements: 1 Offset: 964
+Variable 0041 - slide_smoke_react_emitter 	 Size: 16 Elements: 1 Offset: 1008
+Variable 0042 - slide_smoke_react_behaviors 	 Size: 4 Elements: 1 Offset: 1028
+Variable 0043 - slide_smoke_react_texture 	 Size: 16 Elements: 1 Offset: 1036
+Variable 0044 - slide_smoke_react_info 	 Size: 40 Elements: 1 Offset: 1056
+Variable 0045 - hit_fx_effect 	 Size: 84 Elements: 11 Offset: 1100
